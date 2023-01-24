@@ -1,1 +1,1 @@
-https://github.com/macbeebas/goit-markup-hw-02.git
+https://macbeebas.github.io/goit-markup-hw-02/
